@@ -2,3 +2,4 @@
 ![Иллюстрация к проекту2](https://github.com/NellyShi/qaa-hw4.1_1/blob/master/allure_report_2.png)
 ![Иллюстрация к проекту3](https://github.com/NellyShi/qaa-hw4.1_1/blob/master/allure_report_3.png)
 ![Иллюстрация к проекту4](https://github.com/NellyShi/qaa-hw4.1_1/blob/master/allure_report_4.png)
+[![Build status](https://ci.appveyor.com/api/projects/status/s3ilihdu3c2fbaol?svg=true)](https://ci.appveyor.com/project/NellyShi/qaa-hw4-1-1)
